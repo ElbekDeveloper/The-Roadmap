@@ -6,9 +6,9 @@
 
 2. Tooling 
 
-2.1 Chrome  
-2.2 .NET Framework  
-2.3 Visual Studio 2022  
+    2.1 Chrome  
+    2.2 .NET Framework  
+    2.3 Visual Studio 2022  
 
 3. C# Basics  
 
