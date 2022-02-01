@@ -111,7 +111,9 @@
         4.9.2 Inheritance VS Interface
     4.10 What are enums?  
 
-5. C# Advanced   
+5. Simple Algorithmic Problems from CodeWars.com 
+
+6. C# Advanced   
 
     5.1 Random numbers in C# (some of the popular classes)
     5.2 Generics 
@@ -121,11 +123,11 @@
     5.6 Dependency Injection/Dependency Inversion
     5.7 ASYNC/AWAIT  
 
-6. Web API   
+7. Web API   
  
-7. Entity Framework
+8. Entity Framework
 
-8. The-Standard by Hassan Habib
+9. The-Standard by Hassan Habib
 
 
 
