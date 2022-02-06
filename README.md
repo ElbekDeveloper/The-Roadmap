@@ -8,7 +8,8 @@
 
     2.1 Chrome  
     2.2 .NET Framework  
-    2.3 Visual Studio 2022  
+    2.3 Visual Studio 2022 
+    2.4 Visual Studio Code (till module 5) 
 
 3. C# Basics  
 
@@ -45,27 +46,28 @@
         3.9.2 Project 2: KESCHA: Add a new feature that tranlates chars into ASCII equivalent. Let the student know how KESCHA's 'brain' operates. Make the student feel that he started to understand technology. 
         3.9.3 PROFESSIONAL JARGON: What is commit?  
     3.10 Bool (explain type, memory allocation, etc.)  
-    3.11 Logical Operators   
+    3.11 DateTime (explain type, memory allocation, etc.) 
+    3.12 Logical Operators   
 
         3.11.1 PROJECT 2: CalculatR: teach comparison (commit changes to GitHub)
-    3.12 If  
+    3.13 If  
        
-        3.12.2 PROJECT 1: KESCHA: teach military age calculation (commit changes to GitHub)
-    3.13 Switch (make simple menu)  
+        3.13.1 PROJECT 1: KESCHA: teach military age calculation (commit changes to GitHub)
+    3.14 Switch (make simple menu)  
 
-        3.13.1 PROFESSIONAL JARGON: what is refactor?
-        3.13.2 PROJECT 1: KESCHA: At this stage, the main method of KESCHA is pretty messy. At this stage of refactoring, we will divide responsibilites using "switch" clause. "Switch" should enable basic menu for the user to choose from 
-            3.13.3 HOMEWORK: Make the same changes with CalculatR
-    3.14 WHILE loop (simple program to demonstrate what is it)  
+        3.14.1 PROFESSIONAL JARGON: what is refactor?
+        3.14.2 PROJECT 1: KESCHA: At this stage, the main method of KESCHA is pretty messy. At this stage of refactoring, we will divide responsibilites using "switch" clause. "Switch" should enable basic menu for the user to choose from 
+            3.14.3 HOMEWORK: Make the same changes with CalculatR
+    3.15 WHILE loop (simple program to demonstrate what is it)  
      
-        3.14.1 Infinite loop
-        3.14.2 PROJECT 1: KESCHA: Add a new feature to ask whether the user wants to close or restart the application. 
-    3.15 FOR LOOP (simple program to demonstrate what is it)  
+        3.15.1 Infinite loop
+        3.15.2 PROJECT 1: KESCHA: Add a new feature to ask whether the user wants to close or restart the application. 
+    3.16 FOR LOOP (simple program to demonstrate what is it)  
 
-        3.15.1 PROJECT 2: CalculatR: At this stage, the main method of CalculatR is pretty messy. At this stage of refactoring, we will divide responsibilites using "switch" clause. "Switch" should enable basic menu for the user to choose from
-        3.15.2 PROJECT 2: CalculatR: teach arithmetic and geometric progression.
-        3.15.3 Break/Continue
-    3.16 Arrays  
+        3.16.1 PROJECT 2: CalculatR: At this stage, the main method of CalculatR is pretty messy. At this stage of refactoring, we will divide responsibilites using "switch" clause. "Switch" should enable basic menu for the user to choose from
+        3.16.2 PROJECT 2: CalculatR: teach arithmetic and geometric progression.
+        3.16.3 Break/Continue
+    3.17 Arrays  
 4. C# OOP
 
     4.1 What is class?  
@@ -113,7 +115,7 @@
 
 5. Simple Algorithmic Problems from CodeWars.com 
 
-6. C# Advanced   
+6. C# Advanced (each topic will have its own demo project)  
 
     5.1 Random numbers in C# (some of the popular classes)
     5.2 Generics 
@@ -122,14 +124,40 @@
     5.5 LINQ   
     5.6 Dependency Injection/Dependency Inversion
     5.7 ASYNC/AWAIT  
+    5.8 Exception (Xeptions library)
+    5.9 Unit testing.
 
-7. Web API   
- 
-8. Entity Framework
+7. Sorting and Searching Algorithms 
 
-9. The-Standard by Hassan Habib
+8. Web API (what is api, when and how to use it?)  
+
+    8.1 Project Structure
+    8.2 appsettings.json file
+    8.3 Middlewares 
+    8.4 Request Lifecycle in Web API Project
+    8.5 What is controller?
+    8.6 What is endpoint?
+    8.7 What is Swashbackle? 
+    8.8 What is Model Class?
+    8.9 PROJECT SOFEE: DATA: Create data model for available issue.
+
+9. Entity Framework (what is it, when and how to use it? Give some idea of relational/non-relational databases?)
+   
+   9.1 How to configure EF
+   9.2 How to view tables from Visual Studio (Visual Studio Data Tools)   
+   9.3 What is CRUD operations? Implement them using EF.
+   9.4 What is broker? (HH)
+   9.4 PROJECT SOFEE: BROKER: Implement storage broker for available model 
 
 
+10. Introduction to Services?
+    10.1 What is TDD?
+    10.1 What are foundation services? 
+
+
+Link to [The-Standard by Hassan Habib](https://github.com/hassanhabib/The-Standard)
+
+Link to [C# Coding Standard by Hassan Habib](https://github.com/hassanhabib/CSharpCodingStandard)
 
 
 
