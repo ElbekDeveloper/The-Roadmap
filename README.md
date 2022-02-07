@@ -111,7 +111,15 @@
 
         4.9.1 PROJECT 2: CalculatR: Any class that implement ICalculatable interface can be our CalculatR
         4.9.2 Inheritance VS Interface
-    4.10 What are enums?  
+    4.10 What is enum?  
+    4.11 What is struct? (explain value types and the reference types)
+        4.11.1 When to use?
+            ■ The type acts as a primitive type. Specifically, this means that it is a fairly simple type that has
+            no members that modify any of its instance fields. When a type offers no members that alter
+            its fields, we say that the type is immutable. In fact, it is recommended that many value types
+            mark all their fields as readonly (discussed in Chapter 7, "Constants and Fields").
+            ■ The type doesn’t need to inherit from any other type.
+            ■ The type won’t have any other types derived from it.
 
 5. Simple Algorithmic Problems from CodeWars.com 
 
