@@ -1,8 +1,6 @@
-# The Roadmap
+# The Roadmap v1.0.0
 
-0. Blind-typing 
-
-1. Hello, World! (the student uses dotnetfiddle.net playground to feel he can program!)
+0. [Hello, World!](https://github.com/ElbekDeveloper/The-Roadmap/blob/master/0.%20Hello%20World!/0.%20Introduction.md)
 
 2. Tooling 
 
