@@ -1,5 +1,9 @@
 # The Roadmap v1.0.0
 
+Quyidagi link orqali Discord server ga qo'shiling:
+# Discord
+[![Discord](https://discord.com/api/guilds/934130100008538142/widget.png?style=banner2)](https://discord.gg/b2cWdbFj)
+
 0. [Hello, World!](https://github.com/ElbekDeveloper/The-Roadmap/blob/master/0.%20Hello%20World!/0.%20Introduction.md)
 
 2. Tooling 
