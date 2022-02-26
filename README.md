@@ -3,14 +3,11 @@
 - [Hello, World!](https://github.com/ElbekDeveloper/The-Roadmap/blob/master/0.%20Hello%20World!/0.%20Introduction.md)
 
 
-2. Tooling 
-
-    2.1 Chrome  
-    2.2 .NET Framework  
-    2.3 Visual Studio 2022 
-    2.4 Visual Studio Code (till module 5) 
-
-3. C# Basics  
+- [Basics](https://github.com/ElbekDeveloper/The-Roadmap/tree/master/1.%20Basics)
+    
+    - [About .NET and C#](https://github.com/ElbekDeveloper/The-Roadmap/blob/master/1.%20Basics/1.0%20About%20.NET%20and%20C%23.md)
+    - [Tooling](https://github.com/ElbekDeveloper/The-Roadmap/blob/master/1.%20Basics/1.1%20Tooling.md)
+    
 
     3.1 What is .NET? (show .net library files from c drive)  
     3.2 How C# works? (show diagram pipeline how c# code is transformed over time to machine code)  
