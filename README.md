@@ -1,9 +1,5 @@
 # The Roadmap (v1.0.0)
 
-Quyidagi link orqali Discord server ga qo'shiling:
-## Discord
-[![Discord](https://discord.com/api/guilds/934130100008538142/widget.png?style=banner2)](https://discord.gg/b2cWdbFj)
-
 - [Hello, World!](https://github.com/ElbekDeveloper/The-Roadmap/blob/master/0.%20Hello%20World!/0.%20Introduction.md)
 
 
@@ -26,7 +22,7 @@ Quyidagi link orqali Discord server ga qo'shiling:
     3.5 Strings (explain type, memory allocation, etc.)  
 
         3.5.1 Console I/O
-        3.5.2 PROJECT 1: KESCHA: teach him how to greet
+        3.5.2 PROJECT 1: KESCHA: teach him how to grUeet
             3.5.2.1 HOMEWORK: Teach KESCHA greet you in Uzbek!
     3.6 Numbers (explain type, memory allocation, etc.)  
 
