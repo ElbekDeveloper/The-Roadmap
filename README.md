@@ -7,11 +7,12 @@
     
     - [About .NET and C#](https://github.com/ElbekDeveloper/The-Roadmap/blob/master/1.%20Basics/1.0%20About%20.NET%20and%20C%23.md)
     - [Tooling](https://github.com/ElbekDeveloper/The-Roadmap/blob/master/1.%20Basics/1.1%20Tooling.md)
+    - [File Types]()
     
 
-    3.1 What is .NET? (show .net library files from c drive)  
-    3.2 How C# works? (show diagram pipeline how c# code is transformed over time to machine code)  
+    3.1 show .net library files from c drive.
     3.3 File extensions you need to know (DLL, EXE, CS)  
+    3.2 How C# works? (show diagram pipeline how c# code is transformed over time to machine code)  
     3.4 Namespaces  
 
         3.4.1 What are they?   
