@@ -7,7 +7,18 @@
     
     - [About .NET and C#](https://github.com/ElbekDeveloper/The-Roadmap/blob/master/1.%20Basics/1.0%20About%20.NET%20and%20C%23.md)
     - [Tooling](https://github.com/ElbekDeveloper/The-Roadmap/blob/master/1.%20Basics/1.1%20Tooling.md)
-    - [File Types]()
+    - [File Types](https://github.com/ElbekDeveloper/The-Roadmap/blob/master/1.%20Basics/1.2%20File%20Types.md)
+
+
+- [OOP](https://github.com/ElbekDeveloper/The-Roadmap)
+
+- [Advanced](https://github.com/ElbekDeveloper/The-Roadmap/tree/master/4.%20Advanced)
+    -[Generics]()
+    -[Delegate]()
+    -[Thread Basics]()
+
+
+
     
 
     3.1 show .net library files from c drive.
