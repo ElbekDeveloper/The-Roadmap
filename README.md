@@ -13,9 +13,10 @@
 - [OOP](https://github.com/ElbekDeveloper/The-Roadmap)
 
 - [Advanced](https://github.com/ElbekDeveloper/The-Roadmap/tree/master/4.%20Advanced)
-    -[Generics]()
-    -[Delegate]()
-    -[Thread Basics]()
+
+    - [Generics]()
+    - [Delegate]()
+    - [Thread Basics]()
 
 
 
