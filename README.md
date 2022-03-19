@@ -8,6 +8,7 @@
     - [About .NET and C#](https://github.com/ElbekDeveloper/The-Roadmap/blob/master/1.%20Basics/1.0%20About%20.NET%20and%20C%23.md)
     - [Tooling](https://github.com/ElbekDeveloper/The-Roadmap/blob/master/1.%20Basics/1.1%20Tooling.md)
     - [File Types](https://github.com/ElbekDeveloper/The-Roadmap/blob/master/1.%20Basics/1.2%20File%20Types.md)
+    - [C# under the hood](https://github.com/ElbekDeveloper/The-Roadmap/blob/master/1.%20Basics/1.3%20C#%20under%20the%20hood.md)
 
 
 - [OOP](https://github.com/ElbekDeveloper/The-Roadmap)
@@ -17,14 +18,7 @@
     - [Generics]()
     - [Delegate]()
     - [Thread Basics]()
-
-
-
-    
-
-    3.1 show .net library files from c drive.
-    3.3 File extensions you need to know (DLL, EXE, CS)  
-    3.2 How C# works? (show diagram pipeline how c# code is transformed over time to machine code)  
+ 
     3.4 Namespaces  
 
         3.4.1 What are they?   
@@ -76,7 +70,7 @@
         3.16.1 PROJECT 2: CalculatR: At this stage, the main method of CalculatR is pretty messy. At this stage of refactoring, we will divide responsibilites using "switch" clause. "Switch" should enable basic menu for the user to choose from
         3.16.2 PROJECT 2: CalculatR: teach arithmetic and geometric progression.
         3.16.3 Break/Continue
-    3.17 Arrays  
+    3.17 Arrays
 4. C# OOP
 
     4.1 What is class?  
