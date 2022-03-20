@@ -11,6 +11,7 @@
     - [C# under the hood](https://github.com/ElbekDeveloper/The-Roadmap/blob/master/1.%20Basics/1.3%20C%23%20under%20the%20hood.md)
     - [Namespace](https://github.com/ElbekDeveloper/The-Roadmap/blob/master/1.%20Basics/1.4%20Namespace.md)
     - [New Project](https://github.com/ElbekDeveloper/The-Roadmap/blob/master/1.%20Basics/1.5%20New%20Project.md)
+    - [String](https://github.com/ElbekDeveloper/The-Roadmap/blob/master/1.%20Basics/1.5%20String.md)
 
 
 - [OOP](https://github.com/ElbekDeveloper/The-Roadmap)
@@ -21,15 +22,6 @@
     - [Delegate]()
     - [Thread Basics]()
  
-    3.4 Namespaces  
-
-        3.4.1 What are they?   
-        3.4.2 Naming convention
-    3.5 Strings (explain type, memory allocation, etc.)  
-
-        3.5.1 Console I/O
-        3.5.2 PROJECT 1: KESCHA: teach him how to grUeet
-            3.5.2.1 HOMEWORK: Teach KESCHA greet you in Uzbek!
     3.6 Numbers (explain type, memory allocation, etc.)  
 
         3.6.1 Console I/O of numbers and conversion between strings and numbers 
