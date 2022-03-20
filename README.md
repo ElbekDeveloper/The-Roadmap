@@ -8,9 +8,9 @@
     - [About .NET and C#](https://github.com/ElbekDeveloper/The-Roadmap/blob/master/1.%20Basics/1.0%20About%20.NET%20and%20C%23.md)
     - [Tooling](https://github.com/ElbekDeveloper/The-Roadmap/blob/master/1.%20Basics/1.1%20Tooling.md)
     - [File Types](https://github.com/ElbekDeveloper/The-Roadmap/blob/master/1.%20Basics/1.2%20File%20Types.md)
-    - [C# under the hood](https://github.com/ElbekDeveloper/The-Roadmap/blob/master/1.%20Basics/1.3%20C#%20under%20the%20hood.md)
-    - [Namespace](https://github.com/ElbekDeveloper/The-Roadmap/blob/master/1.%20Basics/1.4%Namespace.md)
-    - [New Project](https://github.com/ElbekDeveloper/The-Roadmap/blob/master/1.%20Basics/1.5%New%20Project.md)
+    - [C# under the hood](https://github.com/ElbekDeveloper/The-Roadmap/blob/master/1.%20Basics/1.3%20C%23%20under%20the%20hood.md)
+    - [Namespace](https://github.com/ElbekDeveloper/The-Roadmap/blob/master/1.%20Basics/1.4%20Namespace.md)
+    - [New Project](https://github.com/ElbekDeveloper/The-Roadmap/blob/master/1.%20Basics/1.5%20New%20Project.md)
 
 
 - [OOP](https://github.com/ElbekDeveloper/The-Roadmap)
