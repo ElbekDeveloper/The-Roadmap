@@ -11,7 +11,8 @@
     - [C# under the hood](https://github.com/ElbekDeveloper/The-Roadmap/blob/master/1.%20Basics/1.3%20C%23%20under%20the%20hood.md)
     - [Namespace](https://github.com/ElbekDeveloper/The-Roadmap/blob/master/1.%20Basics/1.4%20Namespace.md)
     - [New Project](https://github.com/ElbekDeveloper/The-Roadmap/blob/master/1.%20Basics/1.5%20New%20Project.md)
-    - [String](https://github.com/ElbekDeveloper/The-Roadmap/blob/master/1.%20Basics/1.5%20String.md)
+    - [String](https://github.com/ElbekDeveloper/The-Roadmap/blob/master/1.%20Basics/1.6%20String.md)
+    - [Number](https://github.com/ElbekDeveloper/The-Roadmap/blob/master/1.%20Basics/1.7%Number.md)
 
 
 - [OOP](https://github.com/ElbekDeveloper/The-Roadmap)
